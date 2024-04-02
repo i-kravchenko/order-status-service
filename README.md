@@ -1,4 +1,4 @@
-# Бронирование отелей
+# Order-status-service
 
 ## Описание проекта
 Данный проект является зависимостью к проекту [order-service](https://github.com/i-kravchenko/order-service).
